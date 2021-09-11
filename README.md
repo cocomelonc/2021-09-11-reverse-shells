@@ -1,4 +1,4 @@
-# Reverse shells.
+# Reverse shells. Simple reverse shell in C
 
 Source code of post:
 
